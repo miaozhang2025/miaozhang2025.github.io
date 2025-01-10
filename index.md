@@ -7,13 +7,13 @@ permalink: /
 
 # Welcome to my Professional Website
 
-<div class="profile-row">
+
+<div style="display: flex; align-items: center; gap: 20px;">
     <!-- Profile Photo -->
     <img src="/assets/images/Miao.jpg" alt="Miao Zhang" style="border-radius: 50%; width: 260px; height: 300px; object-fit: cover;" />
     
     <!-- Text Content -->
     <div class="profile-text">
-        <h2>Welcome to my Professional Website</h2>
         <p>I am Miao Zhang, a researcher focused on <strong>ecosystem productivity</strong>, <strong>drought processes</strong>, and <strong>machine learning</strong> for environmental modeling.</p>
     </div>
 </div>
