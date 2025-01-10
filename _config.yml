@@ -1,6 +1,7 @@
 title: "Miao Zhang"
 description: "Welcome to my personal website"
-theme: "minimal-mistakes-jekyll"
+#theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@latest"
 url: "https://miaozhang2025.github.io"  # Replace with your URL
 # Social media links
 social_links:
