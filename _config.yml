@@ -5,8 +5,8 @@ theme: "jekyll-theme-primer"
 url: "https://miaozhang2025.github.io"  # Replace with your URL
 author:
   name: "Miao Zhang"
-  avatar: "/assets/images/Miao.jpg"  # Path to your image
-  avatar_size: 150                      # Adjust the size of the image
+  avatar: /assets/images/Miao.jpg  # Path to your image
+  avatar_size: 100                      # Adjust the size of the image
 
 # Social media links
 social_links:
