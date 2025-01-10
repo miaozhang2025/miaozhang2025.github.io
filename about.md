@@ -6,6 +6,8 @@ permalink: /about/
 
 ## Miao Zhang
 
+![Miao Zhang](assets/images/Miao.jpg)
+
 I am a visiting scholar with a research focus on **ecosystem productivity**, **drought modeling**, and **machine learning**. Currently, I am exploring the impacts of extreme climate events on ecosystems and improving drought prediction through advanced modeling techniques.
 
 ### Skills & Expertise
