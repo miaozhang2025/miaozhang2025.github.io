@@ -7,6 +7,8 @@ author:
   name: "Miao Zhang"
   avatar: /assets/images/Miao.jpg  # Path to your image
   avatar_size: 100                      # Adjust the size of the image
+head:
+  - "<link rel='stylesheet' href='/assets/css/style.css'>"
 
 # Social media links
 social_links:
