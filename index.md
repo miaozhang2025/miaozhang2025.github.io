@@ -51,4 +51,4 @@ mzhang@nuist.edu.cn
 
 ---
 
-Feel free to [contact me](email) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
+Feel free to [contact me](contact) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
