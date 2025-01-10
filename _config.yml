@@ -3,6 +3,10 @@ description: "Welcome to my personal website"
 #theme: "minimal-mistakes-jekyll"
 theme: "jekyll-theme-primer"
 url: "https://miaozhang2025.github.io"  # Replace with your URL
+author:
+  name: "Miao Zhang"
+  avatar: "/assets/images/Miao.jpg"  # Path to your image
+
 # Social media links
 social_links:
   linkedin: "https://www.linkedin.com/in/miao-zhang-7630a2203/"
