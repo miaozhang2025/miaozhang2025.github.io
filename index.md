@@ -31,6 +31,11 @@ PhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy 
 
 BS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China
 
+## Skills & Expertise
+- **Machine Learning**: LSTM networks for soil moisture simulation
+- **Climate Science**: Drought evolution mechanism, Interactions between plants and soil moisture
+- **Programming**: Fortran, NCL, Python, Matlab, Linux
+
 ## Blog
 
 Check out my latest blog posts:
