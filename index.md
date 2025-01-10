@@ -28,6 +28,7 @@ I work on studying the **interactions between vegetation and droughts** and appl
 ## Education
 
 PhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China
+
 BS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China
 
 ## Blog
