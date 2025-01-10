@@ -21,7 +21,7 @@ permalink: /
 
 ## My Research
 
-I work on studying the **interactions between vegetation and droughts** and applying **machine learning models**, **remote sensing**, and **land surface models** to predict **the changes in climate extremes' impact** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
+I work on studying the **interactions between vegetation and droughts** and applying **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
 
 [Learn More About My Work](#)
 
