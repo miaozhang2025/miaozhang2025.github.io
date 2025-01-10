@@ -37,7 +37,11 @@ Check out my latest blog posts:
 
 - [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](#)
 
+## Email
+
+miaozhang24@berkeley.edu
+mzhang@nuist.edu.cn
 
 ---
 
-Feel free to [contact me](#) or browse through my projects on [GitHub](https://github.com/miaozhang).
+Feel free to [contact me](email) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
