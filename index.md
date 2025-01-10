@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Miao Zhang"
-description: "Researcher in ecosystem productivity and drought modeling"
+description: "Researcher in climate extremes"
 permalink: /
 ---
 
