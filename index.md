@@ -15,15 +15,15 @@ permalink: /
     <!-- Text Content -->
     <div class="profile-text">
         <h1>About me</h1>
-        <p>I am Miao Zhang, a visiting scholar at the <strong>Dept. of Environmental Science, Policy and Management, UC Berkeley</strong> collaborating with Prof. Trevor Keenan since Mar 2023. I am also a lecturer at NUIST (<strong>Nanjing University of Information Science and Technology</strong>) since Aug 2021.</p>
+        <p>I am Miao Zhang, a visiting scholar at the <strong>Dept. of Environmental Science, Policy and Management, UC Berkeley</strong> collaborating with Prof. Trevor Keenan. I am also a lecturer at NUIST (<strong>Nanjing University of Information Science and Technology</strong>).</p>
     </div>
 </div>
 
 ## My Research
 
-I work on studying the **interactions between vegetation and droughts** and applying **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
+I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
 
-[Learn More About My Work](#)
+[Learn More About My Work](work)
 
 ## Education
 
