@@ -1,9 +1,16 @@
-/* Custom styling for profile image */
-img.avatar {
-  border-radius: 50%; /* Makes the image round */
-  width: 150px; /* Adjust size */
-  height: 150px; /* Keep it square */
-  display: block;
-  margin: 0 auto; /* Center the image */
-  object-fit: cover; /* Ensure the image is cropped to fit the circle */
+.profile-row {
+    display: flex;
+    align-items: center;
+}
+
+.profile-photo {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.profile-text {
+    max-width: 600px;
 }
