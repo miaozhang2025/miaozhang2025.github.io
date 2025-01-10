@@ -7,3 +7,12 @@ url: "https://miaozhang2025.github.io"  # Replace with your URL
 social_links:
   linkedin: "https://www.linkedin.com/in/miao-zhang-7630a2203/"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=WzfvoPkAAAAJ"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+paginate: 5  # Pagination for blog posts
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
