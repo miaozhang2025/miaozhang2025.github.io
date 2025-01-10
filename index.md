@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to my Professional Website
 
-![Miao Zhang](/assets/images/Miao.jpg){:style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;"}
+![Miao Zhang](/assets/images/Miao.jpg)
 
 I am Miao Zhang, a researcher focused on **ecosystem productivity**, **drought processes**, and **machine learning** for environmental modeling.
 
