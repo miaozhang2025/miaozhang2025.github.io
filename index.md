@@ -7,6 +7,9 @@ permalink: /
 
 # Welcome to my Professional Website
 
+<head>
+  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+</head>
 
 <div style="display: flex; align-items: center; gap: 20px;">
     <!-- Profile Photo -->
