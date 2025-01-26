@@ -14,9 +14,10 @@
 .profile-text {
     max-width: 600px;
 }
+background-image: url('assets/images/background.jpg');
 body {
-    background-image: url('/assets/images/drought-vegetation.jpg');
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    background-image: url('assets/images/background.jpg');
+    background-size: cover;        /* To ensure the background covers the entire page */
+    background-position: center;    /* To center the background */
+    background-attachment: fixed;   /* Optional, makes the background fixed when scrolling */
 }
