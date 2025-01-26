@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 </head>
 <body>
   <header>
     <nav>
       <ul>
         <li><a href="{{ "/" | relative_url }}">Home</a></li>
-        <li><a href="{{ "/about" | relative_url }}">Project</a></li>
+        <li><a href="{{ "/project" | relative_url }}">Project</a></li>
         <li><a href="{{ "/blog" | relative_url }}">Blog</a></li>
         <li><a href="{{ "/contact" | relative_url }}">Contact</a></li>
       </ul>
@@ -19,7 +19,7 @@
   </header>
 
   <main>
-    {{ index.md }} <!-- This is where the content from index.md will be rendered -->
+    {{ ../index.md }} <!-- This is where the content from index.md will be rendered -->
   </main>
 </body>
 </html>
