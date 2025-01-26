@@ -7,9 +7,27 @@ permalink: /
 
 # Welcome to my Professional Website
 
-<head>
-  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
-</head>
+---
+layout: default
+---
+
+<html>
+  <head>
+    <style>
+      body {
+        background-image: url('/assets/images/drought-vegetation.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to My Personal Website</h1>
+    <p>This is some content on the homepage.</p>
+  </body>
+</html>
+
 
 <div style="display: flex; align-items: center; gap: 20px;">
     <!-- Profile Photo -->
