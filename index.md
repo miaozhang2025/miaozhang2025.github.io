@@ -9,9 +9,6 @@ layout: default
 title: Home
 background_color: "white"
 ---
-title: Home
-
----
 
 # Home Page
 
