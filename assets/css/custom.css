@@ -2,7 +2,7 @@
 /* Basic styles for the header */
 /* Prevent content from overlapping the fixed header */
 body {
-  margin-top: 150px; /* Adjust this value based on header height */
+  margin-top: 130px; /* Adjust this value based on header height */
   padding-top: 0;    /* Ensure no extra space at the top of the body */
 }
 
@@ -60,7 +60,7 @@ header nav ul li .nav-text {
 
 /* Main content (Home or other sections) */
 #home {
-  margin-top: 150px; /* Same value as the header height */
+  margin-top: 130px; /* Same value as the header height */
 }
 
 /* Mobile responsiveness */
