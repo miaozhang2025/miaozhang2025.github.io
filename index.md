@@ -6,8 +6,11 @@ permalink: /
 ---
 ---
 layout: default
+title: Home
+background_color: "white"
 ---
 title: Home
+
 ---
 
 # Home Page
@@ -15,12 +18,6 @@ title: Home
 Welcome to my website!
 
 [About](about.md) | [Blog](blog.md) | [Contact](contact.md)
-
----
-layout: default
-title: Home
-background_color: "white"  # Custom front matter variable for homepage background
----
 
 ---
 layout: default
