@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Work
-permalink: /work/
+permalink: /publication/
 ---
 This is the page where I showcase my projects and research.
 
