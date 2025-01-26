@@ -52,3 +52,19 @@ mzhang@nuist.edu.cn
 ---
 
 Feel free to [contact me](contact) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
+---
+layout: default
+title: project
+---
+<html>
+  <head>
+    <style>
+      body {
+        background-image: url('/assets/images/drought-vegetation.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+      }
+    </style>
+  </head>
+</html>
