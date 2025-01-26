@@ -24,34 +24,3 @@ header {
   padding: 10px;
   z-index: 1000; /* Ensures the header stays above other content */
 }
-
-/* Style the navigation bar */
-nav {
-  display: flex;
-  justify-content: flex-end; /* Aligns the items to the right */
-  align-items: center;
-}
-
-/* Style the navigation menu */
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-}
-
-ul li {
-  margin-left: 20px; /* Spacing between menu items */
-}
-
-ul li a {
-  color: white;
-  text-decoration: none;
-  font-size: 16px;
-  font-weight: bold;
-  padding: 8px 12px;
-}
-
-ul li a:hover {
-  background-color: rgba(255, 255, 255, 0.2);
-}
