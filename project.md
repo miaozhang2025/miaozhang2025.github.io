@@ -1,6 +1,7 @@
 ---
-layout: default
-title: project
+layout: page
+title: "Project"
+permalink: /project/
 ---
 <html>
   <head>
