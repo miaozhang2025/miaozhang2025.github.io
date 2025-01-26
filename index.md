@@ -23,10 +23,6 @@ Welcome to my website!
       }
     </style>
   </head>
-  <body>
-    <h1>Welcome to My Personal Website</h1>
-    <p>This is some content on the homepage.</p>
-  </body>
 </html>
 
 
