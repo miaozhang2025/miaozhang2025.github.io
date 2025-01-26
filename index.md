@@ -1,11 +1,16 @@
 ---
+layout: default
+title: Home
+---
+
+---
 layout: home
 title: "Miao Zhang"
 description: "Researcher in climate extremes"
 permalink: /
 background_color: "white"
 ---
-
+ 
  Welcome to my website!
 
 [About](about.md) | [Blog](blog.md) | [Contact](contact.md)
