@@ -1,1 +1,67 @@
+/* Basic styles for the header */
+/* Prevent content from overlapping the fixed header */
+body {
+  margin-top: 130px; /* Adjust this value based on header height */
+  padding-top: 0;    /* Ensure no extra space at the top of the body */
+}
+
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8); /* Optional: background color for the header */
+  width: 100%;
+  padding: 20px 40px;
+  z-index: 1000; /* Ensures the header stays above other content */
+}
+
+/* Style the navigation bar */
+nav {
+  display: flex;
+  justify-content: flex-end; /* Aligns the items to the right */
+  align-items: center;
+}
+
+/* Style the navigation menu */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+ul li {
+  margin-left: 2px; /* Spacing between menu items */
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 2px 5px;
+}
+
+ul li a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Main content (Home or other sections) */
+#home {
+  margin-top: 130px; /* Same value as the header height */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  body {
+    margin-top: 100px;  /* Adjusted margin for smaller screens */
+  }
+  header {
+    padding: 10px 5px;  /* Adjust header padding on mobile */
+  }
+  ul li a {
+    font-size: 10px;  /* Adjust font size for smaller screens */
+  }
+}
 
