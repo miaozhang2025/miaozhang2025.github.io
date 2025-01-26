@@ -1,38 +1,41 @@
-/* Basic Reset for padding and margin */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Header Styles */
+/* Basic styles for the header */
 header {
   position: fixed;
   top: 0;
-  width: 100%;
-  background-color: #333; /* Dark background for the header */
-  z-index: 1000;
-}
-
-/* Navigation Styles */
-nav ul {
-  display: flex; /* Flexbox to arrange the menu items horizontally */
-  justify-content: flex-end; /* Aligns items to the right */
-  list-style-type: none; /* Removes the default list style */
-}
-
-nav ul li {
-  margin: 0 20px; /* Adds space between the menu items */
-}
-
-nav ul li a {
-  color: white; /* White text color */
-  text-decoration: none; /* Removes the underline from links */
-  font-size: 16px;
+  right: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8); /* Optional: a background color for the header */
   padding: 10px;
+  z-index: 1000; /* Ensures the header stays above other content */
 }
 
-nav ul li a:hover {
-  background-color: #555; /* Light grey background on hover */
-  border-radius: 4px; /* Rounded corners for hover effect */
+/* Style the navigation bar */
+nav {
+  display: flex;
+  justify-content: flex-end; /* Aligns the items to the right */
+  align-items: center;
+}
+
+/* Style the navigation menu */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+ul li {
+  margin-left: 20px; /* Spacing between menu items */
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px 12px;
+}
+
+ul li a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
 }
