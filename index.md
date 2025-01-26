@@ -6,8 +6,6 @@ permalink: /
 background_color: "white"
 ---
 
-# Home Page
-
 Welcome to my website!
 
 [About](about.md) | [Blog](blog.md) | [Contact](contact.md)
