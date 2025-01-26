@@ -6,7 +6,7 @@ body {
 header {
   position: fixed;
   top: 0;
-  right: 5;
+  right: 10;
   left: 0;
   background-color: rgba(0, 0, 0, 0.8); /* Optional: a background color for the header */
   width: 100%;
