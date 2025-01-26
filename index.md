@@ -5,10 +5,6 @@ description: "Researcher in climate extremes"
 permalink: /
 background_color: "white"
 ---
----
-layout: default
-title: Home
----
 
  Welcome to my website!
 
