@@ -17,30 +17,28 @@ background_color: "white"
     </div>
 </div>
 
-    ## My Research
+## My Research
 
-    I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
+I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
 
-    [Learn More About My Work](/publication/)
+[Learn More About My Work](/publication/)
 
-    ## Education
+## Education
 
-    PhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China
+PhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China
 
-    BS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China
+BS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China
 
-    ## Skills & Expertise
-    - **Machine Learning**: LSTM networks for soil moisture simulation
-    - **Climate Science**: Drought evolution mechanism, Interactions between plants and soil moisture
-    - **Programming**: Fortran, NCL, Python, Matlab, Linux
+## Skills & Expertise
+- **Machine Learning**: LSTM networks for soil moisture simulation
+- **Climate Science**: Drought evolution mechanism, Interactions between plants and soil moisture
+- **Programming**: Fortran, NCL, Python, Matlab, Linux
 
-    ## Blog
+## Blog
 
-    Check out my latest blog posts:
+Check out my latest blog posts:
 
-    - [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](2024-AGU)
-    - 
-
+- [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](2024-AGU)
 ---
 
 Feel free to [contact me](contact) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
