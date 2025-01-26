@@ -8,20 +8,6 @@ background_color: "white"
  
  Welcome to my website!
 
-<html>
-  <head>
-    <style>
-      body {
-        background-image: url('/assets/images/drought-vegetation.jpg');
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-      }
-    </style>
-  </head>
-</html>
-
-
 <div style="display: flex; align-items: center; gap: 20px;">
     <!-- Profile Photo -->
     <img src="/assets/images/Miao.jpg" alt="Miao Zhang" style="border-radius: 50%; width: 260px; height: 300px; object-fit: cover;" />
@@ -66,3 +52,19 @@ mzhang@nuist.edu.cn
 ---
 
 Feel free to [contact me](contact) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
+---
+layout: default
+title: project
+---
+<html>
+  <head>
+    <style>
+      body {
+        background-image: url('/assets/images/drought-vegetation.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+      }
+    </style>
+  </head>
+</html>
