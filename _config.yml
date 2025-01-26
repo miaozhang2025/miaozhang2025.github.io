@@ -23,3 +23,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  # _config.yml
+extras:
+  - /assets/css/custom.css
+
