@@ -14,13 +14,3 @@
 .profile-text {
     max-width: 600px;
 }
-/* Basic styles for the header */
-header {
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  background-color: rgba(0, 0, 0, 0.8); /* Optional: a background color for the header */
-  padding: 10px;
-  z-index: 1000; /* Ensures the header stays above other content */
-}
