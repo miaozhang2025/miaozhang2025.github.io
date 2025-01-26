@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Miao Zhang"
+layout: default
+title: home
 description: "Researcher in climate extremes"
 permalink: /
 background_color: "white"
