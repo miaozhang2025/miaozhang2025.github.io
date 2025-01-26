@@ -23,7 +23,7 @@ background_color: "white"
 
 I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
 
-[Learn More About My Work](/work/)
+[Learn More About My Work](/publication/)
 
 ## Education
 
