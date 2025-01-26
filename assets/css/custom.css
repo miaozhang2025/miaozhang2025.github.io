@@ -6,8 +6,7 @@ header {
   left: 0;
   background-color: rgba(0, 0, 0, 0.8); /* Optional: a background color for the header */
   width: 100%;
-  padding: 40px 40px;
-  z-index: 1000; /* Ensures the header stays above other content */
+  padding: 10px 40px;
 }
 
 /* Style the navigation bar */
