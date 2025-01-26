@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Blog"
+permalink: /contact/
 ---
 
 # 2024 AGU-oral talk
