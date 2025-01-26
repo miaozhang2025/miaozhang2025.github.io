@@ -3,9 +3,6 @@ layout: home
 title: "Miao Zhang"
 description: "Researcher in climate extremes"
 permalink: /
----
-layout: default
-title: Home
 background_color: "white"
 ---
 
