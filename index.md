@@ -6,6 +6,8 @@ permalink: /
 background_color: "white"
 ---
 
+## Welcome to my website! 
+
 <div style="display: flex; align-items: center; gap: 20px;">
     <!-- Profile Photo -->
     <img src="/assets/images/Miao.jpg" alt="Miao Zhang" style="border-radius: 50%; width: 260px; height: 300px; object-fit: cover;" />
