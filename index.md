@@ -15,7 +15,7 @@ background_color: "white"
         <h1>About me</h1>
         <p>I am Miao Zhang, a visiting scholar at the <strong>Dept. of Environmental Science, Policy and Management, UC Berkeley</strong> collaborating with Prof. Trevor Keenan. I am also a lecturer at NUIST (<strong>Nanjing University of Information Science and Technology</strong>).</p>
     </div>
-
+</div>
 
     ## My Research
 
@@ -40,7 +40,7 @@ background_color: "white"
 
     - [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](2024-AGU)
     - 
-</div>
+
 ---
 
 Feel free to [contact me](contact) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
