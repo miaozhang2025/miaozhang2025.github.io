@@ -52,16 +52,32 @@ ul li a:hover {
   margin-top: 130px; /* Same value as the header height */
 }
 
+/* Style the text in the navbar */
+.nav-text {
+  color: white;
+  font-size: 16px;  /* Adjust font size */
+  font-weight: bold;
+  padding: 0 20px; /* Adjust padding around the text */
+}
+
 /* Mobile responsiveness */
 @media (max-width: 768px) {
-  body {
-    margin-top: 100px;  /* Adjusted margin for smaller screens */
+  nav {
+    justify-content: center;
   }
-  header {
-    padding: 10px 5px;  /* Adjust header padding on mobile */
+
+  ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
   }
+
   ul li a {
-    font-size: 10px;  /* Adjust font size for smaller screens */
+    font-size: 10px;
+  }
+
+  .nav-text {
+    font-size: 12px; /* Adjust text size for mobile */
   }
 }
 
