@@ -18,19 +18,21 @@ header {
   overflow: visible;
 }
 
-/* Style the text in the navbar */
-.nav-text {
-  color: white;
-  font-size: 6px; /* Adjust font size */
-  font-weight: bold;
-  padding-left: 10px; /* Add some space from the edge */
-}
+
 
 /* Style the navigation bar */
 nav {
   display: flex;
   justify-content: flex-end; /* Aligns the items to the right */
   align-items: center;
+}
+
+/* Style the text in the navbar */
+.nav-text {
+  color: white;
+  font-size: 6px; /* Adjust font size */
+  font-weight: bold;
+  padding-left: 10px; /* Add some space from the edge */
 }
 
 /* Style the navigation menu */
