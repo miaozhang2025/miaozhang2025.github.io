@@ -51,10 +51,9 @@ ul li a:hover {
 /* Style the text in the navbar */
 .nav-text {
   color: white;
-  font-size: 16px;  /* Adjust font size */
+  font-size: 16px; /* Adjust font size */
   font-weight: bold;
-  padding: 0 20px; /* Adjust padding around the text */
-  margin-left: auto; /* Pushes the text to the right */
+  padding-left: 10px; /* Add some space from the edge */
 }
 
 /* Main content (Home or other sections) */
