@@ -1,9 +1,4 @@
 ---
-layout: default
-title: Home
----
-
----
 layout: home
 title: "Miao Zhang"
 description: "Researcher in climate extremes"
