@@ -5,6 +5,14 @@ description: "Researcher in climate extremes"
 permalink: /
 background_color: "white"
 ---
+---
+layout: default
+---
+
+<div style="padding-left: 20px;">
+  <h1>Welcome to My Website</h1>
+  <p>This is the homepage of my personal website.</p>
+</div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
     <!-- Profile Photo -->
