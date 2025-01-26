@@ -12,6 +12,7 @@ header {
   width: 100%;
   padding: 15px 10px;
   z-index: 1000; /* Ensures the header stays above other content */
+  overflow: visible;
 }
 
 /* Style the navigation bar */
