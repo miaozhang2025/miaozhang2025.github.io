@@ -9,8 +9,8 @@ header {
   right: 0;
   left: 0;
   background-color: rgba(0, 0, 0, 0.8); /* Optional: a background color for the header */
-  width: 95%;
-  padding: 15px 30px;
+  width: 100%;
+  padding: 15px 10px;
   z-index: 1000; /* Ensures the header stays above other content */
 }
 
