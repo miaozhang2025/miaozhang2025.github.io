@@ -16,10 +16,6 @@ Welcome to my website!
 
 [About](about.md) | [Blog](blog.md) | [Contact](contact.md)
 
----
-layout: default
-title: About
----
 <html>
   <head>
     <style>
