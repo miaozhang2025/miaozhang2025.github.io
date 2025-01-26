@@ -48,4 +48,8 @@ ul li a:hover {
 #home {  /* Or any section identifier */
   margin-top: 130px; /* Same value as the header height */
 }
-
+@media (max-width: 768px) {
+  body {
+    margin-top: 100px;  /* Adjusted margin for smaller screens */
+  }
+}
