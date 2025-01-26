@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming"
-date: 2024-01-01
+layout: page
+title: "Blog"
 ---
 
 # 2024 AGU-oral talk
