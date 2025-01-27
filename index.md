@@ -38,7 +38,7 @@ BS (2012-2016), Hydrology and Water Resources Engineering, North China Universit
 ## Blog
 
 Check out my latest blog posts:
-- [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](2024-AGU)
+- [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](/2024-AGU/)
  
 ---
 
