@@ -4,6 +4,9 @@ body {
   margin-top: 100px; /* Adjust this value based on header height */
   padding-top: 0;    /* Ensure no extra space at the top of the body */
 }
+.background-color {
+  background-color: gray;
+}
 
 header {
   position: fixed;
