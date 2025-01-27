@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Work
+title: "Publication"
 permalink: /publication/
 ---
 This is the page where I showcase my projects and research.
