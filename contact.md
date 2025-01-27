@@ -16,7 +16,7 @@ Or use the contact form below:
   <head>
     <style>
       body {
-        background-image: url('/assets/images/collobration.jpg');
+        background-image: url('/assets/images/collobration.png');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
