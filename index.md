@@ -18,11 +18,16 @@ background_color: "gray"
     </div>
 </div>
 
-## My Research
+<div class="container">
+  # Welcome to My Website
 
-I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
 
-[Learn More About My Work](/publication/)
+  ## My Research
+
+  I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.
+
+  [Learn More About My Work](/publication/)
+</div>
 
 ## Education
 
