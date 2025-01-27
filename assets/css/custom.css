@@ -55,6 +55,11 @@ ul li a:hover {
   margin-top: 100px; /* Same value as the header height */
 }
 
+/* Add padding to the left of the body or content container */
+.container {
+  padding-left: 20px; /* Adjust the padding as required */
+}
+
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   nav {
