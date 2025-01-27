@@ -19,7 +19,7 @@ background_color: "gray"
 </div>
 
 <div class="container">
-    <h1> My Research</h1>
+    <h2> My Research</h2>
     <p>I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.</p>
 
   [Learn More About My Work](/publication/)
