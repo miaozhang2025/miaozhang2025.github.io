@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: home
 description: "Researcher in climate extremes"
 permalink: /
