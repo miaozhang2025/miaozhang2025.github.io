@@ -15,3 +15,8 @@ permalink: /blog/
     </style>
   </head>
 </html>
+
+## Blog
+
+Check out my latest blog posts:
+- [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](/2024-AGU/)
