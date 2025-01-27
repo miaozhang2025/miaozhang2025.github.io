@@ -45,3 +45,16 @@ background-color: "gray"
 ---
 
 Feel free to [contact me](/contact) or connect via [LinkedIn](https://www.linkedin.com/in/miao-zhang-7630a2203/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=WzfvoPkAAAAJ).
+
+<html>
+  <head>
+    <style>
+      body {
+        background-image: url('/assets/images/homepage.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+      }
+    </style>
+  </head>
+</html>
