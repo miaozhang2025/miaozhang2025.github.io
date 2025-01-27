@@ -17,10 +17,6 @@ permalink: /project/
 </div>
         
  <div class="container"> 
-    <a href="https://cbmjournal.biomedcentral.com/articles/10.1186/s13021-020-00156-1" target="_blank">
-    2020-CBM-Remote sensing and flash droughts
-    </a>
-    
     <h1>Vegetation greening and droughts</h1>
     <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac69fb" target="_blank">
     2022-ERL-Drought attribution
