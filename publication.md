@@ -20,7 +20,8 @@ permalink: /publication/
 </div>
 
 ### Project
-
-- **Project 1**: National Natural Science Foundation of China Youth Project.
-- **Project 2**: National Key Research and Development Project of China.
+<div class="publication-list">
+  <li> <strong>Project 1</strong>: National Natural Science Foundation of China Youth Project.</li>
+  <li> <strong>Project 2</strong>: National Key Research and Development Project of China.</li>
+</div>  
 [Back to Home](https://miaozhang2025.github.io/)
