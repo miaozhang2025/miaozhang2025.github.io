@@ -7,8 +7,16 @@ permalink: /project/
     <h1>FLash drought and terrestrial ecosystems</h1>
     <a href="https://hess.copernicus.org/articles/24/5579/2020/" target="_blank">
     2020-HESS-Flash drought and carbon fluxes
+    </a> 
+</div>
+
+<div class="container">
+  <a href="https://cbmjournal.biomedcentral.com/articles/10.1186/s13021-020-00156-1" target="_blank">
+    2020-CBM-Remote sensing and flash droughts
+  </a>
+</div>
         
-    </a>   
+ <div class="container"> 
     <a href="https://cbmjournal.biomedcentral.com/articles/10.1186/s13021-020-00156-1" target="_blank">
     2020-CBM-Remote sensing and flash droughts
     </a>
