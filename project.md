@@ -5,8 +5,9 @@ permalink: /project/
 ---
 <div class="container">
     <h1>FLash drought and terrestrial ecosystems</h1>
-    <p>I work on studying the <b>interactions between vegetation and droughts</b> and applying <b>eddy covariance</b>, <b>remote sensing</b>, <b>machine learning models</b>, and <b>land surface models</b> to analyze <b>climate extreme's impacts</b> under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.</p>    
+     <a href="[https://hess.copernicus.org/articles/24/5579/2020/]">2021-HESS-Flash drought and carbon fluxes   
 <div>   
+    
 <html>
   <head>
     <style>
