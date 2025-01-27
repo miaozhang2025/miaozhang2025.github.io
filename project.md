@@ -6,7 +6,7 @@ permalink: /project/
 <div class="container">
     <h1>FLash drought and terrestrial ecosystems</h1>
     <a href="https://hess.copernicus.org/articles/24/5579/2020/" target="_blank">
-    2021-HESS-Flash drought and carbon
+    2020-HESS-Flash drought and carbon
     </a>fluxes   
 <div>   
     
