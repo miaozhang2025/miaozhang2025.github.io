@@ -44,4 +44,4 @@ background_color: "gray"
 </div> 
 ---
 
-Feel free to [contact me](contact) or social_links(linkedin)("https://www.linkedin.com/in/miao-zhang-7630a2203/" /(googlescholar)("https://scholar.google.com/citations?hl=en&user=WzfvoPkAAAAJ")
+Feel free to [contact me](contact) or social_links(linkedin)(https://www.linkedin.com/in/miao-zhang-7630a2203/) /(googlescholar)(https://scholar.google.com/citations?hl=en&user=WzfvoPkAAAAJ)
