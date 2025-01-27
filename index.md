@@ -3,7 +3,7 @@ layout: page
 title: home
 description: "Researcher in climate extremes"
 permalink: /
-background_color: "gray"
+background-color: "gray"
 ---
 ## Welcome to my website! 
 
