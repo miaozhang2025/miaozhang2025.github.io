@@ -25,11 +25,12 @@ background_color: "gray"
   [Learn More About My Work](/publication/)
 
 
-## Education
-</div>
-PhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China
+    <h1>Education</h1>
+    <p>IPhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China</p>
 
-BS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China
+    <p>IBS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China</p>
+</div>
+
 
 ## Skills & Expertise
 - **Machine Learning**: LSTM networks for soil moisture simulation
