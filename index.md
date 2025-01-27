@@ -20,7 +20,7 @@ background_color: "gray"
 
 <div class="container">
     <h2>My Research</h2>
-    <p>I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.</p>
+    <p>I work on studying the <b>interactions between vegetation and droughts</b> and applying <b>eddy covariance</b>, <b>remote sensing</b>, <b>machine learning models</b>, and <b>land surface models</b> to analyze <b>climate extreme's impacts</b> under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.</p>
 
   [Learn More About My Work](/publication/)
 
@@ -33,9 +33,9 @@ background_color: "gray"
 
 
     <h2>Skills & Expertise</h2>
-    <p>**Machine Learning**: LSTM networks for soil moisture simulation</p>
-    <p>**Climate Science**: Drought evolution mechanism, Interactions between plants and soil moisture</p>
-    <p>**Programming**: Fortran, NCL, Python, Matlab, Linux</p>
+    <p><b>Machine Learning</b>: LSTM networks for soil moisture simulation</p>
+    <p><b>Climate Science</b>: Drought evolution mechanism, Interactions between plants and soil moisture</p>
+    <p><b>Programming</b>: Fortran, NCL, Python, Matlab, Linux</p>
 
     <h2>Blog</h2>
 
