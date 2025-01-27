@@ -8,7 +8,7 @@ permalink: /publication/
 
 ### Publications
 <div class="publication-list">
-<li> <strong>[1]</strong>: <strong>Zhang, M.</strong>, Yuan, X., Otkin, J. A., & Ji, P. (2022). Climate warming outweighs vegetation greening in intensifying flash droughts over China. Environmental Research Letters, 17(054041)</li>
+<li> <strong>[1]</strong>: <strong>Zhang, M.</strong>, Yuan, X., Otkin, J. A., & Ji, P. (2022). Climate warming outweighs vegetation greening in intensifying flash droughts over China. Environmental Research Letters, 17(054041). https://10.1088/1748-9326/ac69fb</li>
 <li> <strong>[2]</strong>: <strong>Zhang, M.</strong>, & Yuan, X. (2020). Crucial role of natural processes in detecting human influence on evapotranspiration by multisource data analysis. Journal of Hydrology, 580 (124350). https://doi.org/10.1016/j.jhydrol.2019.124350</li>
 <li> <strong>[3]</strong>: <strong>Zhang, M.</strong>, & Yuan, X. (2020). Rapid reduction in ecosystem productivity caused by flash droughts based on decade-long FLUXNET observations. Hydrology and Earth System Sciences, 24, ‏ 5579-5593. https://doi.org/10.5194/hess-2020-185</li>
 <li> <strong>[4]</strong>: <strong>Zhang, M.</strong>, Yuan, X., & Otkin A., J. (2020). Remote sensing of the impact of flash drought events on terrestrial carbon dynamics over China. Carbon Balance and Management, 15(20). https://doi.org/10.1186/s13021-020-00156-1</li>
