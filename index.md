@@ -23,10 +23,10 @@ background_color: "gray"
     <p>I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.</p>
 
   [Learn More About My Work](/publication/)
-</div>
+
 
 ## Education
-
+</div>
 PhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China
 
 BS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China
