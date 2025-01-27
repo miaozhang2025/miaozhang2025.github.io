@@ -39,7 +39,7 @@ background_color: "gray"
 
     <h2>Blog</h2>
 
-    <p>Check out my latest blog posts:
+    <p>Check out my latest blog posts:</p>
     <a href="/2024-AGU/">2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming</a>
 </div> 
 ---
