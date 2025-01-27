@@ -19,29 +19,29 @@ background_color: "gray"
 </div>
 
 <div class="container">
-    <h2> My Research</h2>
+    <h2>My Research</h2>
     <p>I work on studying the **interactions between vegetation and droughts** and applying **eddy covariance**, **remote sensing**, **machine learning models**, and **land surface models** to analyze **climate extreme's impacts** under climate change. My research aims to help predict and mitigate the effects of droughts on ecosystems.</p>
 
   [Learn More About My Work](/publication/)
 
 
-    <h1>Education</h1>
+    <h2>Education</h2>
     <p>PhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China</p>
 
     <p>BS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China</p>
+
+
+
+    <h2>Skills & Expertise</h2>
+    <p>**Machine Learning**: LSTM networks for soil moisture simulation</p>
+    <p>**Climate Science**: Drought evolution mechanism, Interactions between plants and soil moisture</p>
+    <p>**Programming**: Fortran, NCL, Python, Matlab, Linux</p>
+
+    <h2>Blog</h2>
+
+    <p>Check out my latest blog posts:
+    - [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](/2024-AGU/)</p>
 </div> 
-
-
-##   Skills & Expertise
--   **Machine Learning**: LSTM networks for soil moisture simulation
--   **Climate Science**: Drought evolution mechanism, Interactions between plants and soil moisture
--   **Programming**: Fortran, NCL, Python, Matlab, Linux
-
-##     Blog
-
-     Check out my latest blog posts:
-   - [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](/2024-AGU/)
-
 ---
 
 Feel free to [contact me](contact) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
