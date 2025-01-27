@@ -26,22 +26,22 @@ background_color: "gray"
 
 
     <h1>Education</h1>
-    <p>IPhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China</p>
+    <p>PhD (2016-2021), Meteorology, Institute of Atmospheric Physics, Chinese Academy of Science, China</p>
 
-    <p>IBS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China</p>
-</div>
+    <p>BS (2012-2016), Hydrology and Water Resources Engineering, North China University of Water Resources and Electric Power, China</p>
+</div> 
 
 
-## Skills & Expertise
-- **Machine Learning**: LSTM networks for soil moisture simulation
-- **Climate Science**: Drought evolution mechanism, Interactions between plants and soil moisture
-- **Programming**: Fortran, NCL, Python, Matlab, Linux
+##   Skills & Expertise
+-   **Machine Learning**: LSTM networks for soil moisture simulation
+-   **Climate Science**: Drought evolution mechanism, Interactions between plants and soil moisture
+-   **Programming**: Fortran, NCL, Python, Matlab, Linux
 
-## Blog
+##     Blog
 
-Check out my latest blog posts:
-- [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](/2024-AGU/)
- 
+     Check out my latest blog posts:
+   - [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](/2024-AGU/)
+
 ---
 
 Feel free to [contact me](contact) or browse through my projects on [GitHub](https://github.com/miaozhang2025).
