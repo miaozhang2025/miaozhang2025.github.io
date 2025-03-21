@@ -4,7 +4,7 @@ title: "Publication"
 permalink: /publication/
 ---
 
-### This is the page where I showcase my projects and research.
+<h2 style="font-size: 24px;">This is the page where I showcase my projects and research.</h2>
 
 ### Publications
 <div class="publication-list">
