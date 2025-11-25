@@ -56,6 +56,6 @@ Human activities—including groundwater extraction, irrigation, and land-use ch
   *Human impacts on evapotranspiration and water balance.*  
   — Shows how anthropogenic activities reshape basin-scale ET patterns and can intensify or alleviate drought risk.
 
-</div>
+
 
 [Back to Home]({{ "/" | relative_url }})
