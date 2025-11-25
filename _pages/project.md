@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "Projects"
 permalink: /project/
 ---
@@ -47,3 +47,4 @@ permalink: /project/
     </style>
   </head>
 </html>
+[Back to Home](https://miaozhang2025.github.io/)
