@@ -1,8 +1,11 @@
 ---
-# Only the main Sass file needs front matter
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minimal-mistakes";  // load the theme's default CSS
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main theme styles
+
+/* === Custom overrides start here === */
 
 /* Make the top navigation bar always stay on top */
 .masthead {
@@ -13,7 +16,7 @@
   z-index: 2000;
 }
 
-/* Add top padding so content isn't hidden behind the fixed bar */
+/* Prevent content from hiding under the fixed bar */
 .initial-content {
-  padding-top: 80px;  // adjust if the header is taller/shorter
+  padding-top: 80px;  /* you can later adjust to 70–90px if needed */
 }
