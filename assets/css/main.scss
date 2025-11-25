@@ -1,15 +1,19 @@
 ---
-# README: This loads after theme's default styles
+# Only the main Sass file needs front matter
 ---
-@import "minimal-mistakes";  // ensure this line is present
 
+@import "minimal-mistakes";  // load the theme's default CSS
+
+/* Make the top navigation bar always stay on top */
 .masthead {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  z-index: 9999;
+  z-index: 2000;
 }
-.site-content {
-  padding-top: 70px;  /* adjust based on header height */
+
+/* Add top padding so content isn't hidden behind the fixed bar */
+.initial-content {
+  padding-top: 80px;  // adjust if the header is taller/shorter
 }
