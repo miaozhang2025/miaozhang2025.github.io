@@ -4,7 +4,12 @@
 @import "minimal-mistakes";  // ensure this line is present
 
 .masthead {
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 9999;
+}
+.site-content {
+  padding-top: 70px;  /* adjust based on header height */
 }
