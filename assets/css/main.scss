@@ -1,10 +1,8 @@
 ---
-# Only the main Sass file needs front matter
+# README: This loads after theme's default styles
 ---
+@import "minimal-mistakes";  // ensure this line is present
 
-@import "minimal-mistakes";   // load all default theme styles
-
-/* Make the top navigation bar stay at the top */
 .masthead {
   position: sticky;
   top: 0;
