@@ -58,22 +58,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Miao Zhang"
+  avatar : "/assets/images/Miao.jpg"   # 上传照片到 assets/images/miao.jpg
+  bio    : "State Scholarship Post-Doctoral Fellow at UC Berkeley & Lecturer at NUIST."
+  location: "Berkeley, CA, USA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope" 
+      url: "mailto:miaozhang24@berkeley.edu"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=WzfvoPkAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/miao-zhang-7630a2203/"
 
 footer:
   links:
