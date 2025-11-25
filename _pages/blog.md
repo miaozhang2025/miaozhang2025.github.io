@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "Blogs"
 permalink: /blog/
 ---
@@ -20,4 +20,4 @@ Check out my latest blog posts:
     </style>
   </head>
 </html>
-
+[Back to Home](https://miaozhang2025.github.io/)
