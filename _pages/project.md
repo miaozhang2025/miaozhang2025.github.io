@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Project"
+layout: single
+title: "Projects"
 permalink: /project/
 ---
 <div class="container">
