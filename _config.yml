@@ -16,12 +16,14 @@
 title: "Miao Zhang"
 name: "Miao Zhang"
 
-# Enable sticky navigation bar
 sticky_header: true
 
 header:
   overlay: false
   sticky: true
+
+sass:
+  style: compressed
 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -108,6 +110,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
-sass:
-  style: compressed
