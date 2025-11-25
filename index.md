@@ -16,3 +16,4 @@ I received my Ph.D. in Atmospheric Science from the Institute of Atmospheric Phy
 - Hybrid physics–ML frameworks for drought prediction  
 
 I leverage satellite observations, land surface models, and deep learning approaches to understand and predict drought processes and their ecological impacts.
+permalink: /
