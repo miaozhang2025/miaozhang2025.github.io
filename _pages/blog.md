@@ -10,7 +10,7 @@ Check out my latest blog posts:
   <head>
     <style>
       body {
-        background-image: url('/assets/images/drought-vegetation.jpg');
+        background-image: url('/assets/images/drought-vegetation2.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
