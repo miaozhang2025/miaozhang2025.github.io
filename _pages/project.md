@@ -5,7 +5,7 @@ permalink: /project/
 classes: wide
 ---
 
-<div class="projects-page" style="background-image: url('/assets/images/drought-vegetation.jpg'); background-size: cover; background-position: center; background-attachment: fixed; padding: 2rem; border-radius: 8px;">
+<div class="projects-page" style="background-image: url('/assets/images/drought-vegetation2.jpg'); background-size: cover; background-position: center; background-attachment: fixed; padding: 2rem; border-radius: 8px;">
 
 ## 🌵 Flash Drought and Terrestrial Ecosystems  
 Flash droughts—rapid‐onset, intense drying events—pose major risks to vegetation and carbon fluxes. My work combines remote sensing, ecosystem modeling, and climate diagnostics to quantify how vegetation resistance and productivity respond to flash droughts across multiple ecosystems.
