@@ -1,1 +1,13 @@
+/* Make the navigation bar always stay on top */
+.masthead {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2000;
+}
 
+/* Add top padding so content isn't hidden under the fixed bar */
+.initial-content {
+  padding-top: 80px;  /* adjust to 70–90px if needed */
+}
