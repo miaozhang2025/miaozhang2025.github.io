@@ -3,7 +3,6 @@ layout: page
 title: "Publications"
 permalink: /publication/
 ---
-### Publications
 <div class="publication-list">
 <li> <strong>[1]</strong>: <strong>Zhang, M.</strong>, Yuan, X., Zeng, Z.Z., Pan, M., Wu, P.L., Xiao, J., Keenan, T.F. (2025). A pronounced decline in northern vegetation resistance to flash droughts from 2001 to 2022. Nature Communications, 16(2984). <a href="https://doi.org/10.1038/s41467-025-58253-z">link</a></li> 
 <li> <strong>[2]</strong>: <strong>Zhang, M.</strong>, Yuan, X., Otkin, J. A., & Ji, P. (2022). Climate warming outweighs vegetation greening in intensifying flash droughts over China. Environmental Research Letters, 17(054041). <a href="https://10.1088/1748-9326/ac69fb">link</a></li>
