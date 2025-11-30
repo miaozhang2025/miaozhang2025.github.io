@@ -70,6 +70,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+academicons: true
+
 author:
   name   : "Miao Zhang"
   avatar : "/assets/images/Miao.jpg"   # 上传照片到 assets/images/miao.jpg
