@@ -21,6 +21,18 @@
   padding-top: 80px;  /* you can later adjust to 70–90px if needed */
 }
 /* Global base font size (default ~16px) */
+html, body {
+  font-size: 20px !important;
+}
+
+/* Make content paragraphs larger */
+.page__content,
+.page__content p,
+.page__content li {
+  font-size: 1.15rem !important;
+  line-height: 1.7 !important;
+}
+
 html {
   font-size: 17px;   /* try 15px if 14px is too small */
 }
@@ -29,10 +41,3 @@ html {
 .page__content {
   font-size: 1rem;
 }
-
-/* Force smaller text inside paragraphs and lists */
-.page__content p,
-.page__content li {
-  font-size: 1.05rem !important;
-}
-
