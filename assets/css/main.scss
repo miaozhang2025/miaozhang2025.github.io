@@ -20,15 +20,12 @@
 .initial-content {
   padding-top: 80px;  /* you can later adjust to 70–90px if needed */
 }
-/* Global base font size (default ~16px) */
-html, body {
-  font-size: 18px !important;
+
+html {
+  font-size: 17px;
 }
 
-/* Make content paragraphs larger */
-.page__content,
 .page__content p,
 .page__content li {
-  font-size: 1.rem !important;
-  line-height: 1.7 !important;
+  font-size: 1.05rem !important;
 }
