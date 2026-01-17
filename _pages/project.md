@@ -9,7 +9,7 @@ classes: wide
 Flash droughts—rapid‐onset, intense drying events—pose major risks to vegetation and carbon fluxes. My work combines eddy covariance, remote sensing,  and climate diagnostics to quantify how vegetation resistance and productivity respond to flash droughts across multiple ecosystems.
 
 <div style="text-align:center;">
-  <img src="/assets/images/flash-drought-resistance.png" alt="Flash drought concept figure" style="max-width: 100%; border-radius: 8px;">
+  <img src="/assets/images/flash-drought-resistance.png" alt="Flash drought concept figure" style="max-width: 110%; border-radius: 8px;">
   <p style="font-size:14px; color:#555;">Conceptual figure illustrating flash drought onset and ecosystem response.</p>
 </div>
 
@@ -32,7 +32,7 @@ Flash droughts—rapid‐onset, intense drying events—pose major risks to vege
 Vegetation greening trends interact strongly with drought processes. My research investigates how long-term increases in vegetation productivity alter drought feedbacks, water–carbon coupling, and soil moisture sensitivity.
 
 <div style="text-align:center;">
-  <img src="/assets/images/greening-drought.png" alt="Greening and drought interaction" style="max-width: 75%; border-radius: 8px;">
+  <img src="/assets/images/greening-drought.png" alt="Greening and drought interaction" style="max-width: 65%; border-radius: 8px;">
   <p style="font-size:14px; color:#555;">Example of vegetation greening trends.</p>
 </div>
 
@@ -46,7 +46,7 @@ Vegetation greening trends interact strongly with drought processes. My research
 Human activities—including groundwater extraction, irrigation, and land-use change—substantially modify the terrestrial water cycle. I study how these processes alter evapotranspiration, runoff generation, and drought evolution.
 
 <div style="text-align:center;">
-  <img src="/assets/images/water-budget.png" alt="Water budget figure" style="max-width: 70%; border-radius: 8px;">
+  <img src="/assets/images/water-budget.png" alt="Water budget figure" style="max-width: 60%; border-radius: 8px;">
   <p style="font-size:14px; color:#555;">Illustration of water budget components.</p>
 </div>
 
