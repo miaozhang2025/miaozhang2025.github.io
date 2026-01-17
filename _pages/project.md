@@ -6,7 +6,7 @@ classes: wide
 ---
 
 ## 🌵 Flash Drought and Terrestrial Ecosystems  
-Flash droughts—rapid‐onset, intense drying events—pose major risks to vegetation and carbon fluxes. My work combines remote sensing, ecosystem modeling, and climate diagnostics to quantify how vegetation resistance and productivity respond to flash droughts across multiple ecosystems.
+Flash droughts—rapid‐onset, intense drying events—pose major risks to vegetation and carbon fluxes. My work combines eddy covariance, remote sensing,  and climate diagnostics to quantify how vegetation resistance and productivity respond to flash droughts across multiple ecosystems.
 
 <div style="text-align:center;">
   <img src="/assets/images/flash-drought-figure.png" alt="Flash drought concept figure" style="max-width: 80%; border-radius: 8px;">
@@ -38,9 +38,8 @@ Vegetation greening trends interact strongly with drought processes. My research
 
 ### Key Publication  
 - **Zhang et al., 2022, Environmental Research Letters (ERL)**  
-  *Attribution of drought impacts on vegetation under long-term greening.*  
-  — Quantifies how LAI increases modify drought stress and ecosystem memory, highlighting contrasting regional behaviors.
-
+  *Attribution of drought trends under long-term warminng and greening.*  
+  — Quantifies the relative contributions of increasing LAI and rising air temperature to drought stress, highlighting strong regional contrasts in drought responses.
 ---
 
 ## 💧 Water Budget Change and Human Activity  
