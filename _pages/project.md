@@ -9,8 +9,8 @@ classes: wide
 Flash droughts—rapid‐onset, intense drying events—pose major risks to vegetation and carbon fluxes. My work combines eddy covariance, remote sensing,  and climate diagnostics to quantify how vegetation resistance and productivity respond to flash droughts across multiple ecosystems.
 
 <div style="text-align:center;">
-  <img src="/assets/images/flash-drought-figure.png" alt="Flash drought concept figure" style="max-width: 80%; border-radius: 8px;">
-  <p style="font-size:14px; color:#555;">Conceptual figure illustrating flash drought onset and ecosystem response (placeholder).</p>
+  <img src="/assets/images/flash-drought-resistance.png" alt="Flash drought concept figure" style="max-width: 80%; border-radius: 8px;">
+  <p style="font-size:14px; color:#555;">Conceptual figure illustrating flash drought onset and ecosystem response.</p>
 </div>
 
 ### Key Publications
