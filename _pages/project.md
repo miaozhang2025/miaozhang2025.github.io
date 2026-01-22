@@ -33,7 +33,7 @@ Vegetation greening trends interact strongly with drought processes. My research
 
 <div style="text-align:center;">
   <img src="/assets/images/greening-drought.png" alt="Greening and drought interaction" style="max-width: 65%; border-radius: 8px;">
-  <p style="font-size:14px; color:#555;">Example of vegetation greening trends.</p>
+  <p style="font-size:14px; color:#555;">Vegetation greening effects on hydrological cycle.</p>
 </div>
 
 ### Key Publication  
