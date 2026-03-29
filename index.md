@@ -5,9 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-Hello! My name is Miao Zhang (张苗). I am currently a State Scholarship Post-Doctoral Fellow at UC Berkeley and a lecturer at Nanjing University of Information Science and Technology. My research focuses on drought, vegetation–climate interactions, and machine learning–based drought forecasting.
+Hello! My name is Miao Zhang (张苗). I am currently a lecturer at Nanjing University of Information Science and Technology. I received my Ph.D. in Atmospheric Science from the Institute of Atmospheric Physics, Chinese Academy of Sciences and subsequently worked as a State Scholarship Postdoctoral Fellow at University of California, Berkeley.
 
-I received my Ph.D. in Atmospheric Science from the Institute of Atmospheric Physics, Chinese Academy of Sciences.
+My research focuses on drought dynamics, vegetation–climate interactions, and machine learning–based drought forecasting.
 
 ## Research interests
 
