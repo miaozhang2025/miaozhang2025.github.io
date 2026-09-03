@@ -75,12 +75,12 @@ academicons: true
 author:
   name   : "Miao Zhang"
   avatar : "/assets/images/Miao.jpg"   # 上传照片到 assets/images/miao.jpg
-  bio    : "State Scholarship Post-Doctoral Fellow at UC Berkeley & Lecturer at NUIST."
-  location: "Berkeley, CA, USA"
+  bio    : "Associate professor at NUIST."
+  location: "Nanjing, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope" 
-      url: "mailto:miaozhang24@berkeley.edu"
+      url: "mailto:mzhang@nuist.edu.cn"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=WzfvoPkAAAAJ"
