@@ -3,7 +3,13 @@ layout: single
 title: "Blogs"
 permalink: /blog/
 ---
-
+<style>
+.page__content li,
+.page__content table,
+.page__content td {
+  font-size: 22px;
+}
+</style>
 Check out my latest talks and conference highlights:
 
 - 17–18 October 2026 · CYwater: [Observation-constrained attribution of vegetation effects on soil moisture dynamics using explainable ML](/2026-Cywater/) 🏆 **Best Oral Presentation Award**
