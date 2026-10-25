@@ -6,7 +6,7 @@ permalink: /blog/
 
 Check out my latest talks and conference highlights:
 
-- 17–18 October 2026 | CYwater: Oral presentation, [Observation-constrained attribution of vegetation effects on soil moisture dynamics using explainable ML 🏆 **Best Oral Presentation Award**](/2026-Cywater/)
+- 17–18 October 2026 · CYwater: [Observation-constrained attribution of vegetation effects on soil moisture dynamics using explainable ML](/2026-Cywater/) 🏆 **Best Oral Presentation Award**
 
 - 25–29 January 2026 | AMS: Oral presentation, “Enhanced Soil Moisture Prediction at Subseasonal-to-Seasonal Scales Using a Deep Learning–Physics Hybrid Approach.”
 
