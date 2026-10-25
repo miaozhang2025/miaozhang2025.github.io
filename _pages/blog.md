@@ -3,6 +3,11 @@ layout: single
 title: "Blogs"
 permalink: /blog/
 ---
+<style>
+.page__content {
+  font-size: 20px;
+}
+</style>
 
 Check out my latest talks and conference highlights:
 
