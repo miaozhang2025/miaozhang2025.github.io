@@ -4,7 +4,8 @@ title: "Blogs"
 permalink: /blog/
 ---
 Check out my latest blog posts:
-- [17–18 October 2026 | CYwater: Oral presentation, “Observation-constrained attribution of vegetation effects on soil moisture dynamics using explainable ML] **Best Oral Presentation Award.**
+- - **17–18 October 2026 | CYwater:** Oral presentation, “Observation-constrained attribution of vegetation effects on soil moisture dynamics using explainable ML.” **Best Oral Presentation Award**
+  <img src="/assets/images/your-photo.jpg" alt="CYwater Best Oral Presentation Award" width="600">
 - [25-29 January 2026 AMS-oral talk: Enhanced Soil Moisture Prediction at Subseasonal-to-Seasonal Scales Using a Deep Learning–Physics Hybrid Approach]
 - [2025 AGU: Enhanced Soil Moisture Prediction at Subseasonal-to-Seasonal Scales Using a Deep Learning–Physics Hybrid Approach](/2025-AGU/)
 - [2024 AGU-oral talk: Intensifying Response of Global Ecosystem Productivity to Flash Droughts Under Climate Warming](/2024-AGU/)
