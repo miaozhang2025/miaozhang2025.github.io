@@ -16,3 +16,16 @@ My research focuses on drought dynamics, vegetation–climate interactions, and 
 - Hybrid physics–ML frameworks for drought prediction  
 
 I leverage satellite observations, land surface models, and deep learning approaches to understand and predict drought processes and their ecological impacts.
+
+## Latest News & Talks
+
+- **17–18 October 2026:** CYwater oral presentation,
+  “Observation-constrained attribution of vegetation effects
+  on soil moisture dynamics using explainable ML.”
+  🏆 **Best Oral Presentation Award**
+
+- **2025 AGU:** Enhanced Soil Moisture Prediction at
+  Subseasonal-to-Seasonal Scales Using a Deep Learning–Physics
+  Hybrid Approach
+
+[View all blog posts](/blog/)
